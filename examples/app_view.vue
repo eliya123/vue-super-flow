@@ -126,7 +126,7 @@ export default {
         desc: "",
       },
 
-      origin: [0, 0],
+      origin: [681, 465],
       nodeList: [],
       linkList: [],
 
